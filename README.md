@@ -9,9 +9,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=P3nguinMinecraft&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=P3nguinMinecraft&theme=blue-green)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=P3nguinMinecraft&icon=0&color=0)](https://visitcount.itsvg.in)
 
